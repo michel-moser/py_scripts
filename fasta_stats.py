@@ -1,5 +1,7 @@
 '''Usage: python fasta_stats.py yourfile.fasta
 
+depends on python packages: biopython, numpy
+
 provides standart metrics of the fasta file:
 Filename
 Total Length
