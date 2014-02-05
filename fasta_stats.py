@@ -25,6 +25,7 @@ N95	L95
 
 from Bio import SeqIO
 import sys
+import numpy as np
 
 seq_file = sys.argv[1]
 contigsLength = []
